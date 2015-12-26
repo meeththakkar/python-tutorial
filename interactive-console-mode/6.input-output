@@ -1,0 +1,28 @@
+meet@ubuntu:~/python/python-tutorial$ python3
+Python 3.4.0 (default, Jun 19 2015, 14:20:21) 
+[GCC 4.8.2] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> # input and output 
+... 
+>>> name = "Meet Thakkar"
+>>> print("hello, myname is " + name )
+hello, myname is Meet Thakkar
+>>> print("hello, myname is" , name )
+hello, myname is Meet Thakkar
+>>> #input functions 
+... 
+>>> name = input("what is your name?) 
+  File "<stdin>", line 1
+    name = input("what is your name?) 
+                                     ^
+SyntaxError: EOL while scanning string literal
+>>> name = input("what is your name?") 
+what is your name?meet thakkar
+>>> print("hello, myname is" , name )
+hello, myname is meet thakkar
+>>> name = input("what is your name?") 
+what is your name?myth
+>>> print("hello, myname is" , name )
+hello, myname is myth
+>>> 
+

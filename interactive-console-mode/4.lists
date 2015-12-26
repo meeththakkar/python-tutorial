@@ -1,0 +1,22 @@
+meet@ubuntu:~/python/python-tutorial$ python3
+Python 3.4.0 (default, Jun 19 2015, 14:20:21) 
+[GCC 4.8.2] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> #list operations 
+... 
+>>> list = []
+>>> list.append(21)
+>>> print (list)
+[21]
+>>> 
+>>> 
+>>> 
+>>> 
+>>> list.append("Just a String")
+>>> print (list)
+[21, 'Just a String']
+>>> list = [12,13,14,"fifteen"]
+>>> print (list)
+[12, 13, 14, 'fifteen']
+>>> 
+

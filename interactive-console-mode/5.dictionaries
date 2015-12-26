@@ -1,0 +1,11 @@
+meet@ubuntu:~/python/python-tutorial$ python3
+Python 3.4.0 (default, Jun 19 2015, 14:20:21) 
+[GCC 4.8.2] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> #dictionaries in python 
+... 
+>>> services = {'ftp':21 , 'ssh':22, 'smtp' : 25, 'http':80 }
+>>> print(services)
+{'ftp': 21, 'smtp': 25, 'http': 80, 'ssh': 22}
+>>> 
+
