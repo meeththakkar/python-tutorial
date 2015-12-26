@@ -3,3 +3,7 @@ Started with creating new Virtual Machine ubuntu.
 open terminal 
 and run 
 sudo apt-get install git
+
+
+follow this link to connnect git with linux environment.
+https://help.github.com/articles/generating-ssh-keys/
