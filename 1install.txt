@@ -11,3 +11,14 @@ https://help.github.com/articles/generating-ssh-keys/
 
 As I have worked in SVN previously, here is a link to understand Git from SVN point of view.
 https://git-scm.com/course/svn.html
+
+
+
+Installing python 
+here are the steps.
+1. open terminal
+2. sudo apt-get install python3
+
+run this to verify installation. 
+meet@ubuntu:~/python/python-tutorial$ python3 --version
+Python 3.4.0
