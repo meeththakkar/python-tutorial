@@ -1,2 +1,6 @@
 As I have completed the setup for git And python
 I will now start coding in python
+
+following is link from where Im following the tutorials. 
+https://www.youtube.com/playlist?list=PL1A2CSdiySGJd0LJRRSwQZbPZaDP0q67j
+
