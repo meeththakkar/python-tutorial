@@ -1,0 +1,2 @@
+As I have completed the setup for git And python
+I will now start coding in python
