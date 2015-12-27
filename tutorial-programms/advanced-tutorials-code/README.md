@@ -1,9 +1,9 @@
  	
--Template usage sample 
+- Template usage sample 
 TemplateCustomDelimiter.py 	
 TemplatesSimple.py 	
 
--argparse usage
+- argparse usage
 argParse_Fibonacci.py 	
 argParse_Fibonacci_mutex_Args.py 	
 
@@ -13,11 +13,11 @@ multi-threading-timer.py
 async-write.py 	
 lock-timer.py 	
 
--regex samples
+- regex samples
 regex-Test.py 	
 regex-lookup.py 	
 
--Networking 
+- Networking 
 - TCP ( run TCP Server first then tcp client. enter the text to send it to server on client, enter "q" to exit )
 tcpClient.py 	
 tcpServer.py 	
