@@ -23,7 +23,7 @@ regex-lookup.py
 tcpClient.py 	
 tcpServer.py 	
 
--- UDP ( run UDP Server first then UDP client. enter the text to send it to server on client, enter "q" to exit )
+- UDP ( run UDP Server first then UDP client. enter the text to send it to server on client, enter "q" to exit )
  udpClient.py 	
  udpServer.py 	
 
